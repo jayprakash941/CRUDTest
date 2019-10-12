@@ -1,0 +1,201 @@
+{"level":"info","message":"Server started on port : undefined","timestamp":"2019-10-12T07:11:34.254Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:12:06.387Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:12:57.708Z"}
+{"level":"error","message":"error in connecting mongoDBMongoParseError: Invalid connection string","timestamp":"2019-10-12T07:12:57.710Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:13:20.228Z"}
+{"level":"error","message":"error in connecting mongoDBMongoParseError: Invalid connection string","timestamp":"2019-10-12T07:13:20.230Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:14:21.327Z"}
+{"level":"error","message":"error in connecting mongoDBMongoParseError: Invalid connection string","timestamp":"2019-10-12T07:14:21.330Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:14:45.108Z"}
+{"level":"error","message":"error in connecting mongoDBMongoParseError: Invalid connection string","timestamp":"2019-10-12T07:14:45.113Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:16:07.681Z"}
+{"level":"error","message":"error in connecting mongoDBMongoParseError: Invalid connection string","timestamp":"2019-10-12T07:16:07.684Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:16:24.159Z"}
+{"level":"info","message":"MongoDB Connected to ${database_name}","timestamp":"2019-10-12T07:16:24.202Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:16:47.298Z"}
+{"level":"info","message":"MongoDB Connected to ${database_name}","timestamp":"2019-10-12T07:16:47.336Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:17:19.476Z"}
+{"level":"info","message":"MongoDB Connected to undefined","timestamp":"2019-10-12T07:17:19.510Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:17:49.936Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T07:17:49.967Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:18:13.512Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T07:18:13.550Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:20:18.499Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T07:20:18.525Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:20:34.111Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T07:20:34.147Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:20:45.110Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T07:20:45.147Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:20:57.323Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T07:20:57.358Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:21:38.140Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T07:21:38.168Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:22:06.433Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T07:22:06.466Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:22:31.988Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T07:22:32.019Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:23:28.425Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T07:23:28.459Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:24:29.741Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T07:24:29.782Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:27:18.976Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T07:27:19.009Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:28:53.215Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T07:28:53.252Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:29:35.650Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T07:29:35.681Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:29:50.689Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T07:29:50.730Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:29:55.931Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T07:29:55.969Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:30:10.047Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T07:30:10.079Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:32:04.057Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T07:32:04.097Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:32:41.492Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T07:32:41.525Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:33:27.568Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T07:33:27.601Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:34:01.804Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T07:34:01.837Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:54:59.610Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T07:54:59.642Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:56:41.412Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T07:56:41.447Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:56:49.314Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T07:56:49.347Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:57:37.220Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T07:57:37.257Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:07:57:53 +0000] \"GET / HTTP/1.1\" 404 139 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T07:57:53.359Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T07:58:42.297Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T07:58:42.333Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:07:58:44 +0000] \"GET / HTTP/1.1\" 200 7 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T07:58:44.964Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:07:58:44 +0000] \"GET /favicon.ico HTTP/1.1\" 200 7 \"http://localhost:8000/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T07:58:44.999Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:07:59:09 +0000] \"GET /api HTTP/1.1\" - - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T07:59:09.873Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T08:00:53.574Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T08:00:53.608Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:08:00:54 +0000] \"GET /api/ HTTP/1.1\" 200 7 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T08:00:54.858Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:08:00:54 +0000] \"GET /favicon.ico HTTP/1.1\" 304 - \"http://localhost:8000/api/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T08:00:54.917Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T08:01:31.390Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T08:01:31.430Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T08:22:31.483Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T08:22:31.520Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T08:23:08.178Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T08:23:08.211Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T08:23:23.425Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T08:23:23.454Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T08:24:02.178Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T08:24:02.209Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T08:24:18.676Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T08:24:18.706Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:08:24:38 +0000] \"GET /api/get HTTP/1.1\" 200 7 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T08:24:38.996Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:08:24:39 +0000] \"GET /favicon.ico HTTP/1.1\" 304 - \"http://localhost:8000/api/get\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T08:24:39.027Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T08:26:22.884Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T08:26:22.916Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T10:32:23.798Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T10:32:23.831Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:10:33:19 +0000] \"GET /api/ HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T10:33:19.316Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:10:33:19 +0000] \"GET /favicon.ico HTTP/1.1\" 304 - \"http://localhost:8000/api/\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T10:33:19.353Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T10:33:34.418Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T10:33:34.449Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:10:33:39 +0000] \"GET /api/ HTTP/1.1\" 404 143 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T10:33:39.560Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:10:33:49 +0000] \"GET / HTTP/1.1\" 404 139 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T10:33:49.551Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:10:33:57 +0000] \"GET /api/ HTTP/1.1\" 404 143 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T10:33:57.599Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T10:41:10.363Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T10:41:10.391Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:10:41:28 +0000] \"GET /api/ HTTP/1.1\" 404 143 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T10:41:28.348Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:10:41:30 +0000] \"GET /api/ HTTP/1.1\" 404 143 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T10:41:30.453Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:10:41:31 +0000] \"GET /api/ HTTP/1.1\" 404 143 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T10:41:31.194Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:10:41:31 +0000] \"GET /api/ HTTP/1.1\" 404 143 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T10:41:31.348Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:10:41:31 +0000] \"GET /api/ HTTP/1.1\" 404 143 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T10:41:31.464Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:10:41:34 +0000] \"GET / HTTP/1.1\" 404 139 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T10:41:34.571Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:10:41:50 +0000] \"GET /api/ HTTP/1.1\" 404 143 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T10:41:50.819Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:10:41:53 +0000] \"GET /api/get HTTP/1.1\" 404 146 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T10:41:53.427Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:10:41:56 +0000] \"GET /api/get HTTP/1.1\" 404 146 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T10:41:56.414Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T10:42:47.039Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T10:42:47.066Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:10:42:59 +0000] \"GET /api/get HTTP/1.1\" 404 146 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T10:42:59.307Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:10:43:01 +0000] \"GET /api/get HTTP/1.1\" 404 146 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T10:43:01.395Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:10:43:02 +0000] \"GET /api/get HTTP/1.1\" 404 146 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T10:43:02.210Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:10:43:02 +0000] \"GET /api/get HTTP/1.1\" 404 146 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T10:43:02.391Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:10:43:02 +0000] \"GET /api/get HTTP/1.1\" 404 146 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T10:43:02.492Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:10:43:02 +0000] \"GET /api/get HTTP/1.1\" 404 146 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T10:43:02.756Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:10:43:02 +0000] \"GET /api/get HTTP/1.1\" 404 146 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T10:43:02.857Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T10:44:06.124Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T10:44:06.163Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:10:44:12 +0000] \"GET /api/get HTTP/1.1\" 200 1 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T10:44:12.256Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:10:44:12 +0000] \"GET /favicon.ico HTTP/1.1\" 404 150 \"http://localhost:8000/api/get\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T10:44:12.289Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T10:44:25.660Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T10:44:25.692Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T10:44:52.154Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T10:44:52.182Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T10:46:47.501Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T10:46:47.538Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T10:48:13.219Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T10:48:13.246Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T10:48:43.214Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T10:48:43.248Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T10:48:54.152Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T10:48:54.193Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T10:50:36.846Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T10:50:36.882Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T10:50:52.673Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T10:50:52.706Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T10:51:00.800Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T10:51:00.835Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T10:51:39.960Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T10:51:39.988Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T10:52:17.496Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T10:52:17.533Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T10:52:48.627Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T10:52:48.663Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T10:56:31.414Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T10:56:31.451Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:10:56:35 +0000] \"GET /api/get HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T10:56:35.272Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T11:08:18.475Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T11:08:18.503Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T11:08:54.001Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T11:08:54.030Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T11:09:11.854Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T11:09:11.891Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T11:09:29.750Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T11:09:29.777Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T11:09:38.145Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T11:09:38.183Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T11:09:55.712Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T11:09:55.739Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T11:10:00.830Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T11:10:00.861Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T11:13:16.147Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T11:13:16.182Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T11:17:22.895Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T11:17:22.984Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T11:21:07.360Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T11:21:07.396Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T11:22:17.912Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T11:22:17.945Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:11:24:35 +0000] \"POST /api/user HTTP/1.1\" 404 148 \"-\" \"PostmanRuntime/7.6.0\"\n","timestamp":"2019-10-12T11:24:35.375Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T11:28:16.485Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T11:28:16.519Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:11:28:22 +0000] \"GET /api/get HTTP/1.1\" 200 3 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T11:28:22.102Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T11:28:45.845Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T11:28:45.872Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:11:28:49 +0000] \"GET /api/get HTTP/1.1\" 404 146 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T11:28:49.156Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:11:28:50 +0000] \"GET /api/get HTTP/1.1\" 404 146 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T11:28:50.137Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:11:28:50 +0000] \"GET /api/get HTTP/1.1\" 404 146 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T11:28:50.638Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:11:28:51 +0000] \"GET /api/get HTTP/1.1\" 404 146 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T11:28:51.154Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:11:28:51 +0000] \"GET /api/get HTTP/1.1\" 404 146 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36\"\n","timestamp":"2019-10-12T11:28:51.269Z"}
+{"level":"error","message":"Error while creating user","timestamp":"2019-10-12T11:30:11.916Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:11:30:11 +0000] \"POST /api/user HTTP/1.1\" 200 77 \"-\" \"PostmanRuntime/7.6.0\"\n","timestamp":"2019-10-12T11:30:11.920Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T11:30:57.265Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T11:30:57.304Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T11:31:28.831Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T11:31:28.866Z"}
+{"level":"info","message":"User saved","timestamp":"2019-10-12T11:31:33.767Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:11:31:33 +0000] \"POST /api/user HTTP/1.1\" 200 236 \"-\" \"PostmanRuntime/7.6.0\"\n","timestamp":"2019-10-12T11:31:33.776Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T11:31:54.526Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T11:31:54.560Z"}
+{"level":"info","message":"Server started on port : 8000","timestamp":"2019-10-12T11:32:05.679Z"}
+{"level":"info","message":"MongoDB Connected to test","timestamp":"2019-10-12T11:32:05.711Z"}
+{"level":"info","message":"User saved","timestamp":"2019-10-12T11:32:09.875Z"}
+{"level":"info","message":"::1 - - [12/Oct/2019:11:32:09 +0000] \"POST /api/user HTTP/1.1\" 200 236 \"-\" \"PostmanRuntime/7.6.0\"\n","timestamp":"2019-10-12T11:32:09.883Z"}
