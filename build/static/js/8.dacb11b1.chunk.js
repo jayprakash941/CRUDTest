@@ -1,0 +1,2 @@
+(this.webpackJsonptodo_app=this.webpackJsonptodo_app||[]).push([[8],{417:function(t,e,a){"use strict";a.r(e);var o=a(0),n=a.n(o),s=a(20),c=a(46),p=a(25);e.default=function(){var t=Object(o.useContext)(p.a),e=t.isLoggedIn,a=t.logoutUser,r=Object(o.useContext)(c.a).clearData;return e&&(r(),a()),n.a.createElement(s.a,{to:"/"})}}}]);
+//# sourceMappingURL=8.dacb11b1.chunk.js.map

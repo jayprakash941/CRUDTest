@@ -5,16 +5,15 @@ let userSchema = mongoose.Schema({
         type:String,
         require:true
     },
+    password: {
+        type: String
+    },
     email:{
         type:String,
         require:true
-    }, phone:{
-        type:Number,
+    }, dob:{
+        type:Date,
         require:true
-    }, status:{
-        type:String,
-        enum:['active','inactive'],
-        default:'active'
     }
 },{ collection: 'user', timestamps: true })
 
