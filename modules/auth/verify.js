@@ -24,8 +24,8 @@ if (tokenSignature != undefined) {
     } else {
       res.status(401).send({
         status: "error",
-        code: 401,
-        message: "Authentication Failure",
+        code: 440,
+        message: "Session expire! Please login..",
         data: {}
       });
     }
